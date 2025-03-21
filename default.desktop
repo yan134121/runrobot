@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
-Name=pulanrobot
+Name=Application
 Exec=AppRun %F
 Icon=default
 Comment=Edit this default file
 Terminal=true
 Categories=Application;
-X-AppImage-Version=1cb98e2
+X-AppImage-Version=ed2ca0e
